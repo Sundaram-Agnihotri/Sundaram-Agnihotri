@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Sundaram-Agnihotri
-- 👀 I’m Btech Student in MPGI..
-- 🌱 I’m currently learning WEB DEVELOPMENT COURSE..
 
-<!---
-Sundaram-Agnihotri/Sundaram-Agnihotri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/assets/110082729/2c1abf52-7b5e-4cc0-8508-c6608212096a)
