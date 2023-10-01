@@ -4,17 +4,17 @@
   alt="coding"
 src="banner3.gif"></a>
 
-<h1 align="center">Hi 👋🏼, I'm Aayush Aryan</h1>
+<h1 align="center">Hi 👋🏼, I'm Sundaram Agnihotri</h1>
 <h3 align="center">
-  "As a Front-End Web Developer, I sculpt digital experiences with the finesse
-  of code, orchestrating pixels and interactions to harmonize user and interface
+  "As a Front-End Web Developer, I sculpt digital experiences with the backend
+  technology, orchestrating pixels and interactions to harmonize user and interface
   in a ballet of seamless performance.🍀"
 </h3>
 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aayusharyan007&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aayusharyan007"
+    alt="Sundaram-Agnihotri"
   />
 </p>
 <a href=#><img align="right"
@@ -23,10 +23,9 @@ src="banner3.gif"></a>
 
 - 🌱 I’m currently learning **MERN technology**
 - 👯 I’m looking to collaborate on **Web Dev projects**
-- 👨‍💻 All of my projects are available at [https://github.com/AayushAryan007/](https://github.com/AayushAryan007/)
-- 📫 How to reach me **aayusharyan1210@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/aayusharyan1287/](https://www.linkedin.com/in/aayusharyan1287/)
-- ⚡ Fun fact **I play Drums, got a band? 🥁🎸🎷🎹**
+- 👨‍💻 All of my projects are available at [https://github.com/Sundaram-Agnihotri/](https://github.com/Sundaram-Agnihotri/)
+- 📫 How to reach me **btwch2021.sundaramagnihotri@mpgi.edu.in**
+- 📄 Know about my experiences [www.linkedin.com/in/sundaram-agnihotri-b24951237/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
