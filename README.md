@@ -1,5 +1,5 @@
+![image](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/assets/110082729/6155fcbf-0558-43fb-b59b-1cd4f12e783a)
 
-![Uploading image.png…]()
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
