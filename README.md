@@ -6,7 +6,7 @@ src="banner3.gif"></a>
 
 <h1 align="center">Hi 👋🏼, I'm Sundaram Agnihotri</h1>
 <h3 align="center">
-  "As a Front-End Web Developer, I sculpt digital experiences with the backend
+  "As a Full Stack Web Developer, I sculpt digital experiences with the backend
   technology, orchestrating pixels and interactions to harmonize user and interface
   in a ballet of seamless performance.🍀"
 </h3>
@@ -23,9 +23,9 @@ src="banner3.gif"></a>
 
 - 🌱 I’m currently learning **MERN technology**
 - 👯 I’m looking to collaborate on **Web Dev projects**
-- 👨‍💻 All of my projects are available at [https://github.com/Sundaram-Agnihotri/](https://github.com/Sundaram-Agnihotri/)
-- 📫 How to reach me **btwch2021.sundaramagnihotri@mpgi.edu.in**
-- 📄 Know about my experiences [www.linkedin.com/in/sundaram-agnihotri-b24951237/)]
+- 👨‍💻 All of my projects are available at [https://github.com/Sundaram-Agnihotri/](https://github.com/Sundaram-Agnihotri]
+- 📫 How to reach me **btech2021.sundaramagnihotri@mpgi.edu.in**
+- 📄 Know about my experiences [www.linkedin.com/in/sundaram-agnihotri-b24951237/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
