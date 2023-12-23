@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sundaram-Agnihotri.visitor-badge" />
+
 <a href="https://github.com/Sundaram-Agnihotri/sundaram-agnihotri-numbers">
  <img src="https://img.shields.io/github/watchers/Sundaram-Agnihotri/sundaram-agnihotri-numbers.svg?style=social" alt="Number of Visitors">
 </a>
