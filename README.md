@@ -1,8 +1,4 @@
-
-<a href="https://github.com/Sundaram-Agnihotri/sundaram-agnihotri-numbers">
- <img src="https://img.shields.io/github/watchers/Sundaram-Agnihotri/sundaram-agnihotri-numbers.svg?style=social" alt="Number of Visitors">
-</a>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sundaram-Agnihotri" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sundaram Agnihotri!;" />
