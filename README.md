@@ -48,8 +48,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-## My Contribution snake
-![Contribution snake example](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/blob/output/github-contribution-grid-snake.svg)
+
+(https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
