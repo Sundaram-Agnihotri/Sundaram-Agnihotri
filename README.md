@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img alt="snake eating my contributions" src="https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/blob/output/github-contribution-grid-snake2.svg" />
+<img alt="snake eating my contributions" src="![snake animation](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/blob/output/github-contribution-grid-snake2.svg)" />
   
   <br/><br/><br/>
 </div>
