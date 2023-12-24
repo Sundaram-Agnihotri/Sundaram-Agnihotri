@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sundaram-Agnihotri.visitor-badge" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Accent&size=30&pause=1000&color=F71A1A&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Fresher+DevOps;Problem+Solver;Hi+there+%2C+Sundaram+Agnihotri" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Accent&size=25&pause=1000&color=F71A1A&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Fresher+DevOps;Problem+Solver;Hi+there+%2C+Sundaram+Agnihotri" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate software developer from India IN</h3>
