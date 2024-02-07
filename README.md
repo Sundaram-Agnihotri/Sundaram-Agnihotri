@@ -10,14 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **FULL STACK TECHNOLOGY**
- 
- 🌱 I’m currently learning **Java Backend**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/issues)**
-
-⚡ Fun fact **enjoying movie and web series in night**
-
+# 💫 About Me:
+🔭 I’m currently working on **FULL STACK TECHNOLOGY**<br> <br> 🌱 I’m currently learning **Java Backend**<br><br>💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/issues)**<br><br>⚡ Fun fact **enjoying movie and web series in night**
  </div>
  
 <div align="center"> 
@@ -46,20 +40,22 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sundaram-Agnihotri&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sundaram-Agnihotri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundaram-Agnihotri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sundaram-Agnihotri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sundaram-Agnihotri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/><br/>
 
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
