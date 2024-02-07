@@ -47,7 +47,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sundaram_Agnihotri&show_icons=true&locale=en&layout=compact" alt="Sundaram_Agnihotri" /></p>
+   ![](https://github-readme-stats.vercel.app/api?username=Sundaram-Agnihotri&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sundaram-Agnihotri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundaram-Agnihotri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   <br/><br/><br/>
 </div>
 
