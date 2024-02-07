@@ -47,8 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sundaram-Agnihotri/Sundaram-Agnihotri/output/github-contribution-grid-snake.svg" />
-  
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
   <br/><br/><br/>
 </div>
 
