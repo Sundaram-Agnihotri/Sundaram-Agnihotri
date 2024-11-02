@@ -11,7 +11,7 @@
 <div align="center">
  
 # 💫 About Me:
-🔭 I’m currently working on **FULL STACK TECHNOLOGY**<br> <br> 🌱 I’m currently learning **Java Backend**<br><br>💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/issues)**<br><br>⚡ Fun fact **enjoying movie and web series in night**
+🔭 I’m currently working on **FULL STACK TECHNOLOGY** , enthusiastic in **web3 technology**<br> <br> 🌱 I’m currently learning **Java Backend**<br><br>💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Sundaram-Agnihotri/Sundaram-Agnihotri/issues)**<br><br>⚡ Fun fact **enjoying movie and web series in night**
  </div>
  
 <div align="center"> 
